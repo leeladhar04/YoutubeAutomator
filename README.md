@@ -104,13 +104,6 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
-## Contact
-
-Mail - har4485@gmail.com
-
-[LinkedIn](www.linkedin.com/in/harrish-m-88249b230)
-
 
 
 
